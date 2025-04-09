@@ -1,7 +1,7 @@
 
 <img src="banner2.jpg" alt="GitHub Banner" height="200px" width="100%" />
 
-# 💫 Alas! I'm Charl:
+# 💫 Alas! I'm Charl, nice to meet you 🫵:
 💻 Passionate full-stack web developer specializing in Python (Django) & Flutter. Currently working on [webpage](https://studiongaarifoundation.org/)<br>👨🏼‍🎓 I build impactful solutions around education, mental health, governance, and citizen engagement in Africa.<br>🌍 Projects include: Centralized School Management System (Kenya CBC), Mental Health Chatbot, Fact-checking platform, and Real-time Notification Apps.<br>🤖 Interests: AI agents, robotics, ethical tech.<br>🔧 Let’s build solutions that matter.
 
 
