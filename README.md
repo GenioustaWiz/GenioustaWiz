@@ -1,3 +1,5 @@
+<img src="banner.jpg" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me:
 💻 Passionate full-stack web developer specializing in Python (Django) & Flutter. I build impactful solutions around education, mental health, governance, and citizen engagement in Africa.<br>🌍 Projects include: Centralized School Management System (Kenya CBC), Mental Health Chatbot, Fact-checking platform, and Real-time Notification Apps.<br>🤖 Interests: AI agents, robotics, ethical tech.<br>🔧 Let’s build solutions that matter.
 
